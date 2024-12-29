@@ -1,8 +1,8 @@
-# Project-Datapot
+# Project-Datapot-PBI
 
-Giải đề ứng tuyển BootCamp Datapot
+Nguồn dữ liệu: Datapot
 
-Nội dung gồm:
+#### Nội dung gồm:
 
 - File dữ liệu chưa phân tích bằng Excel, CVS
   
